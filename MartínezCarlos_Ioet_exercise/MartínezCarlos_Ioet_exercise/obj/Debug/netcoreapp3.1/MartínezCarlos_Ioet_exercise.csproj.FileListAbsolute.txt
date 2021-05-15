@@ -1,0 +1,13 @@
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.exe
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.deps.json
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.runtimeconfig.json
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.dll
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.pdb
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\obj\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\obj\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\obj\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.AssemblyInfo.cs
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\obj\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\obj\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.dll
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\obj\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.pdb
+C:\Users\carlo\source\repos\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\obj\Debug\netcoreapp3.1\MartínezCarlos_Ioet_exercise.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MartínezCarlos_Ioet_exercise/1.0.0": {
+        "runtime": {
+          "MartínezCarlos_Ioet_exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MartínezCarlos_Ioet_exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
