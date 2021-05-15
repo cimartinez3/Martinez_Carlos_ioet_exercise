@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\source\\repos\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise.csproj",
+      "projectUniqueName": "D:\\Martinez_Carlos_ioet_exercise\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise.csproj",
       "projectName": "MartínezCarlos_Ioet_exercise",
-      "projectPath": "C:\\Users\\carlo\\source\\repos\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise.csproj",
+      "projectPath": "D:\\Martinez_Carlos_ioet_exercise\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\source\\repos\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise\\obj\\",
+      "outputPath": "D:\\Martinez_Carlos_ioet_exercise\\MartínezCarlos_Ioet_exercise\\MartínezCarlos_Ioet_exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

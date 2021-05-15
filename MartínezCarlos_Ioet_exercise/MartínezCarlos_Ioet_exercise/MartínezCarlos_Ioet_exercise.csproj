@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="data_layer\" />
     <Folder Include="business_layer\" />
     <Folder Include="presentation_layer\" />
   </ItemGroup>
