@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MartínezCarlos_Ioet_exercise.business_layer;
+using System;
 
 namespace MartínezCarlos_Ioet_exercise
 {
@@ -6,7 +7,7 @@ namespace MartínezCarlos_Ioet_exercise
     {
         public static  void Main(string[] args)
         {
-            Console.WriteLine(data_layer.Data.getData()[0]);
+            Operation.getSalary();
         }
     }
 }
