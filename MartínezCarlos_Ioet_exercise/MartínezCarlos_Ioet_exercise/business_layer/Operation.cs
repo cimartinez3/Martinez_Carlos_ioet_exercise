@@ -35,8 +35,8 @@ namespace MartínezCarlos_Ioet_exercise.business_layer
                 foreach (var sub_split in splited[1].Split(','))
                 {
                     string day = sub_split.Substring(0, 2);
-                    string horario = sub_split.Substring(2, sub_split.Length - 2);
-                    string[] hours = horario.Split('-');
+                    string hours_worked = sub_split.Substring(2, sub_split.Length - 2);
+                    string[] hours = hours_worked.Split('-');
 
                     TimeSpan init_time = TimeSpan.Parse(hours[0]);
                     TimeSpan end_time = TimeSpan.Parse(hours[1]);
