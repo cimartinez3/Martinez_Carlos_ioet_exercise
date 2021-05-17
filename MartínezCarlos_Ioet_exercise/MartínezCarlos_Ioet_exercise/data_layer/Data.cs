@@ -5,14 +5,21 @@ using System.IO;
 
 namespace MartínezCarlos_Ioet_exercise.data_layer
 {
-    class Data
+    public class Data
     {
         public static string[]  getData()
-        {
-            string input_file = @"inputs.txt";
-            string[] data = File.ReadAllLines(input_file);
-
-            return data;
+        {             
+            try
+            {
+                string input_file = @"inputs.txt";
+                string[]  data = File.ReadAllLines(input_file);
+            
+                return data;
+            }
+            catch (Exception e)
+            {
+                 return null;
+            }
         }
     }
 }

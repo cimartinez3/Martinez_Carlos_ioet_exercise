@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MartínezCarlos_Ioet_exercise.business_layer
 {
-    class Operation
+    public class Operation
     {
         public static float pay = 0;
         static Dictionary<string, int> rates = new Dictionary<string, int>()
@@ -52,7 +52,7 @@ namespace MartínezCarlos_Ioet_exercise.business_layer
             }
         }
 
-        private static float calculatePayment(TimeSpan initTime, TimeSpan endTime, string interval, string day)
+        public static float calculatePayment(TimeSpan initTime, TimeSpan endTime, string interval, string day)
         {
             int hours_worked = (endTime - initTime).Hours;
             string[] interval_splited = interval.Split('-');
