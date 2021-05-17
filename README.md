@@ -29,6 +29,9 @@ You can open "MartínezCarlos_Ioet_exercise.sln" with Visual Studio and run it
 
 or
 
-You can go to: "you_download_direcotry"\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\net5.0
+You can go to: "you_download_directory"\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\net5.0
 ```bash
 run "MartínezCarlos_Ioet_exercise.exe"
+
+
+NOTE: You can find the "inputs.txt" file in "you_download_direcotry"\MartínezCarlos_Ioet_exercise\MartínezCarlos_Ioet_exercise\bin\Debug\net5.0
